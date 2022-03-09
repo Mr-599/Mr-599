@@ -1,13 +1,11 @@
 <p align='center'>
-  <b>Hi 👋, I'm M-599</b><br>
-  <a href="https://discord.gg/5CesQTFCuD">Discord</a> |
-  <a href="https://youtube.com/channel/UCJc9nB6s9lOUahBoeEhKWjQ">YouTube</a> | 
-  <a href="https://zaphirweb.sellix.io/">Shop</a> |
+  <b>HiMy Name : Saint-Dominus</b><br>
+
 </p>
 
 <p align="center"><br>
   <a href="https://github.com/Mr-599">
-    <img src="https://lanyard-profile-readme.vercel.app/api/938852462780121191"/>
+
      </a>
 </p>
 
